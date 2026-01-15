@@ -1,10 +1,10 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "common-masters",
   "Uom": [
     {
       "id": 1,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "NOS",
       "description": "Numbers",
       "uomCategory": "QUANTITY",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LTR",
       "description": "Litres",
       "uomCategory": "VOLUME",
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "CUL",
       "description": "Cubic Litre",
       "uomCategory": "VOLUME",
@@ -37,7 +37,7 @@
     },
     {
       "id": 4,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "KGS",
       "description": "Kilograms",
       "uomCategory": "WEIGHT",
@@ -48,7 +48,7 @@
     },
     {
       "id": 5,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "TON",
       "description": "Tonne",
       "uomCategory": "WEIGHT",
@@ -59,7 +59,7 @@
     },
     {
       "id": 6,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "GMS",
       "description": "Grams",
       "uomCategory": "WEIGHT",
@@ -70,7 +70,7 @@
     },
     {
       "id": 7,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "MTR",
       "description": "Meter",
       "uomCategory": "LENGTH",
@@ -81,7 +81,7 @@
     },
     {
       "id": 8,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "KM",
       "description": "Kilometer",
       "uomCategory": "LENGTH",
@@ -92,7 +92,7 @@
     },
     {
       "id": 9,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "CM",
       "description": "Centimeter",
       "uomCategory": "LENGTH",
@@ -103,7 +103,7 @@
     },
     {
       "id": 10,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "SFT",
       "description": "Square Feet",
       "uomCategory": "AREA",
@@ -114,7 +114,7 @@
     },
     {
       "id": 11,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "SQM",
       "description": "Square Meter",
       "uomCategory": "AREA",
@@ -125,7 +125,7 @@
     },
     {
       "id": 12,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "KW",
       "description": "Kilo Watts",
       "uomCategory": "POWER",
@@ -136,7 +136,7 @@
     },
     {
       "id": 13,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "KVA",
       "description": "Kilovolt-Ampere",
       "uomCategory": "POWER",
@@ -147,7 +147,7 @@
     },
     {
       "id": 14,
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "HP",
       "description": "Horse Power",
       "uomCategory": "POWER",

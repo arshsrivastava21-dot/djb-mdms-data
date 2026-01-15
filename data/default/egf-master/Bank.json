@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "egf-master",
   "Bank": [
     {
@@ -10,7 +10,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "default"
+      "tenantid": "dl"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "default"
+      "tenantid": "dl"
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "default"
+      "tenantid": "dl"
     }
   ]
 }

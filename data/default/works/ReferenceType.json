@@ -1,29 +1,29 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "works",
   "ReferenceType": [
     {
       "id": 1,
       "code": "DemandfromMember",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Demand from Member"
     },
     {
       "id": 2,
       "code": "Demandfrompublic",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Demand from public"
     },
     {
       "id": 3,
       "code": "DepartmentalInitiative",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Departmental Initiative"
     },
     {
       "id": 4,
       "code": "Other",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Other"
     }
   ]

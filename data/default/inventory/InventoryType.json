@@ -1,14 +1,14 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "InventoryType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "ASSET",
       "name": "Asset"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "CONSUMABLE",
       "name": "consumable"
     }

@@ -1,11 +1,11 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "works",
   "AssetPresentCondition": [
     {
       "id": 1,
       "name": "Breaking Down Fake",
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

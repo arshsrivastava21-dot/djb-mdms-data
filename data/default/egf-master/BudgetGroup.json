@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "egf-master",
   "BudgetGroup": [
     {
@@ -13,7 +13,7 @@
       "accounttype": "CAPITAL_EXPENDITURE",
       "isactive": true,
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "accounttype": "CAPITAL_EXPENDITURE",
       "isactive": true,
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "accounttype": "CAPITAL_EXPENDITURE",
       "isactive": true,
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
       "accounttype": "CAPITAL_EXPENDITURE",
       "isactive": true,
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
       "accounttype": "CAPITAL_EXPENDITURE",
       "isactive": true,
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

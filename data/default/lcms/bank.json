@@ -1,31 +1,31 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "lcms",
   "bank": [
     {
       "name": "AXIS BANK",
       "code": "AXIS",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "ICICI BANK LTD",
       "code": "ICICI",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "HDFC BANK",
       "code": "HDFC",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "STATE BANK OF INDIA",
       "code": "SBI",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "BANK OF MAHARASHTRA",
       "code": "BOM",
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

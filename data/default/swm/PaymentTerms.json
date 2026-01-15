@@ -1,24 +1,24 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "PaymentTerms": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "noOfDays": 30,
       "label": "Monthly"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "noOfDays": 60,
       "label": "Bi-monthly"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "noOfDays": 90,
       "label": "Quarterly"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "noOfDays": 365,
       "label": "Yearly"
     }

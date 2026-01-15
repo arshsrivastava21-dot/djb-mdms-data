@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "egf-master",
   "SubScheme": [
     {
@@ -13,7 +13,7 @@
       "validTo": "2018-01-01",
       "active": false,
       "departmentId": "departmentId",
-      "tenantid": "default"
+      "tenantid": "dl"
     },
     {
       "id": "2",
@@ -26,7 +26,7 @@
       "validTo": "2018-01-01",
       "active": false,
       "departmentId": "departmentId",
-      "tenantid": "default"
+      "tenantid": "dl"
     },
     {
       "id": "3",
@@ -39,7 +39,7 @@
       "validTo": "2018-01-01",
       "active": false,
       "departmentId": "departmentId",
-      "tenantid": "default"
+      "tenantid": "dl"
     }
   ]
 }

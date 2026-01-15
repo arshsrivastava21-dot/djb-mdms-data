@@ -1,24 +1,24 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "FuelType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Diesel",
       "code": "Fuel Type Code 1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Petrol",
       "code": "Fuel Type Code 2"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "CNG",
       "code": "Fuel Type Code 3"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Electricity",
       "code": "Fuel Type Code 4"
     }

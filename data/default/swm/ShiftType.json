@@ -1,134 +1,134 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "ShiftType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Morning Shift",
       "code": "Shift Type Code 1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Afternoon Shift",
       "code": "Shift Type Code 2"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Night Shift",
       "code": "Shift Type Code 3"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "jhjhdj",
       "code": "shift code 4"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "saffafa",
       "code": "fdfsdfsdfd"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Evening Shifts",
       "code": "ES"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Night Shift",
       "code": "NS1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Mid Night Shift",
       "code": "MNS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "ABCDF",
       "code": "ABCD"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "ABCDE",
       "code": "ABCDE"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "2 to 4 Shift",
       "code": "2To4Shift"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Mid Day shift",
       "code": "MDS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "New shifts",
       "code": "NS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Shift Shift",
       "code": "SS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Breakfast Shift",
       "code": "BFS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Snacks Shift",
       "code": "SNS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Coffee Shift",
       "code": "CS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Tea",
       "code": "Tea"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Empty Shift entered",
       "code": "ES11"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Afternoon Shift",
       "code": "Shift002"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "10 to 6",
       "code": "shift106"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "5 To 10 Shift",
       "code": "5TO8"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "SGK-Morning",
       "code": "SGK555"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "M_ShiftTypeName",
       "code": "MSTC"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "M_ShiftTypeName",
       "code": "MSTCs"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "morning",
       "code": "12345"
     }

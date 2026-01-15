@@ -1,40 +1,40 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "SwmProcess": [
     {
       "code": "Process 1",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Collection",
       "reqInStaffTarget": true
     },
     {
       "code": "Process 2",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Segregation",
       "reqInStaffTarget": true
     },
     {
       "code": "Process 3",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Transportation",
       "reqInStaffTarget": false
     },
     {
       "code": "Process 4",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Disposal",
       "reqInStaffTarget": true
     },
     {
       "code": "Process 5",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Waste Treatment",
       "reqInStaffTarget": false
     },
     {
       "code": "Process 6",
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Other",
       "reqInStaffTarget": false
     }

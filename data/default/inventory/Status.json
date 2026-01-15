@@ -1,34 +1,34 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "Status": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "ACTIVE",
       "name": "Active"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "WITHDRAWN",
       "name": "Withdrawn"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "OBSOLETE",
       "name": "Obsolete"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "SUSPENDED",
       "name": "suspended"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "BARRED",
       "name": "barred"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "INACTIVE",
       "name": "inactive"
     }

@@ -1,29 +1,29 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "SuplierType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "INDIVIDUAL",
       "name": "individual"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "FIRM",
       "name": "firm"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "COMPANY",
       "name": "company"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "REGISTERED",
       "name": "registered"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "SOCIETY",
       "name": "society"
     }

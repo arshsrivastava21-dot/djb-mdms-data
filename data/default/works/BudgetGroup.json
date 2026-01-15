@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "works",
   "BudgetGroup": [
     {
@@ -17,7 +17,7 @@
       "lastmodifiedby": 1,
       "lastmodifieddate": "12345678912",
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 365,
@@ -34,7 +34,7 @@
       "lastmodifiedby": 1,
       "lastmodifieddate": "12345678912",
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 367,
@@ -51,7 +51,7 @@
       "lastmodifiedby": 1,
       "lastmodifieddate": "12345678912",
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 369,
@@ -68,7 +68,7 @@
       "lastmodifiedby": 1,
       "lastmodifieddate": "12345678912",
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": 371,
@@ -85,7 +85,7 @@
       "lastmodifiedby": 1,
       "lastmodifieddate": "12345678912",
       "version": 0,
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

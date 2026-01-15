@@ -1,184 +1,184 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "VehicleType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Tractors - 2",
       "code": "Vehicle Type Code 2"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Dumper",
       "code": "Vehicle Type Code 3"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Tractor 19",
       "code": "T1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Bharat Benz",
       "code": "BB"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Test",
       "code": "Test"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Vehicle Tests",
       "code": "VT"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Test1 Update",
       "code": "Test1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Creating new Vehicle Types",
       "code": "CNVT"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Creating new Vehicle Types",
       "code": "CNVTS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Truck",
       "code": "TruckCode"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "SGK",
       "code": "SGK01"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Luxury",
       "code": "TS"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1 Test"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1 Test updated"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "LorriesName",
       "code": "Lorry"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Ghanta Trin Trin gadis",
       "code": "123"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "BakwaasL",
       "code": "BKL"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "TATA Dumper Vehicle",
       "code": "LKP/346"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "????? ???? ??????",
       "code": "? ????/???"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "SDfsag!@#$$%%^^\u0026*(){}L:\u003e\u003c?",
       "code": "Jds!@#$%%^^\u0026*()_+|}{:\"\u003c\u003e?"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "???? ????",
       "code": "?? ?????? / 678"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Dumper001",
       "code": "D0001"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "मराठी भाषा ऑनलाईन",
       "code": "Marathi Text Test"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "मराठी भाषा ऑनलाईन",
       "code": "मराठी भाषा ऑनलाईन1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "घंटागाडी",
       "code": "घंटागाडी००१"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "thertrt",
       "code": "ddfgdg"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "dfgdfg",
       "code": "dfgdfghre"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "fgbfgb",
       "code": "fgnfgn"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "fdsvdfbfg",
       "code": "fgbfgnbfgn"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "VehicleTypeName ",
       "code": "VTC"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "VechicleTypeName",
       "code": "V T"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Murari Kumar ",
       "code": "MK01"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "PullingBike2",
       "code": "TP"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "M_Type_Name_1",
       "code": "MTN"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Garbage truck",
       "code": "GT"
     }

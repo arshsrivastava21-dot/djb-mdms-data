@@ -1,14 +1,14 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "MaterialControlType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LOTCONTROL",
       "name": "LOT Control"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "SHELF_LIFE_CONTROL",
       "name": "Shelf_life_Control"
     }

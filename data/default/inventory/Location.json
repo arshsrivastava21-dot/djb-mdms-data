@@ -1,19 +1,19 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "Location": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LOC1",
       "name": "Location1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LOC2",
       "name": "Location1"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LOC3",
       "name": "Location3"
     }

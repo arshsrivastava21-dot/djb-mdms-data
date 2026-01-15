@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "common-masters",
   "Department": [
     {
@@ -7,56 +7,56 @@
       "name": "ADMINISTRATION",
       "code": "ADM",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "2",
       "name": "ACCOUNTS",
       "code": "ACC",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "5",
       "name": "ENGINEERING",
       "code": "ENG",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "7",
       "name": "TOWN PLANNING",
       "code": "TP",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "8",
       "name": "REVENUE",
       "code": "REV",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "9",
       "name": "PUBLIC HEALTH AND SANITATION",
       "code": "PHS",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "10",
       "name": "URBAN POVERTY ALLEVIATION",
       "code": "UPA",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "id": "11",
       "name": "EDUCATION",
       "code": "EDU",
       "active": "true",
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

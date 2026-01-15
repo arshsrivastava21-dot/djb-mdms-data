@@ -1,18 +1,18 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "works",
   "RemarksType": [
     {
       "name": "Approval",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "Show Cause",
-      "tenantId": "default"
+      "tenantid": "dl"
     },
     {
       "name": "Rejection",
-      "tenantId": "default"
+      "tenantid": "dl"
     }
   ]
 }

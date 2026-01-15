@@ -1,14 +1,14 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "swm",
   "ToiletType": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Community Toilet",
       "code": "COM"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "name": "Public Toilet",
       "code": "PUB"
     }

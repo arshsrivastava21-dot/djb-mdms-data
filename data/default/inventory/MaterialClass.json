@@ -1,19 +1,19 @@
 {
-  "tenantId": "default",
+  "tenantid": "dl",
   "moduleName": "inventory",
   "MaterialClass": [
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "HIGHUSAGE",
       "name": "HighUsage"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "MEDIUMUSAGE",
       "name": "MediumUsage"
     },
     {
-      "tenantId": "default",
+      "tenantid": "dl",
       "code": "LOWUSAGE",
       "name": "LowUsage"
     }
