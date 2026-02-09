@@ -1079,7 +1079,7 @@
       "code": "null",
       "path": "Finance.Masters.Functionary.Create Functionary",
       "leftIcon": "editor:insert-chart",
-      "navigationURL": "services/EGF/functionary/new"	    
+      "navigationURL": "services/EGF/functionary/new"
     },
     {
       "id": 668,
@@ -1093,7 +1093,7 @@
       "code": "null",
       "path": "Finance.Masters.Functionary.Modify Functionary",
       "leftIcon": "editor:insert-chart",
-      "navigationURL": "services/EGF/functionary/edit"	
+      "navigationURL": "services/EGF/functionary/edit"
     },
     {
       "id": 669,
@@ -1107,7 +1107,7 @@
       "code": "null",
       "path": "Finance.Masters.Functionary.Search Functionary",
       "leftIcon": "editor:insert-chart",
-      "navigationURL": "services/EGF/functionary/view"		    
+      "navigationURL": "services/EGF/functionary/view"
     },
     {
       "id": 670,
@@ -2480,7 +2480,7 @@
       "code": "null",
       "path": "Administration.Department.View Department"
     },
-   {
+    {
       "id": 1426,
       "name": "Create Purposes",
       "url": "url",
@@ -8265,7 +8265,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2012,
       "name": "LMEPerformanceReport",
@@ -14150,7 +14149,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-
     {
       "id": 2473,
       "name": "OBPS_FAQ_S",
@@ -14836,7 +14834,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2524,
       "name": "Create assessment ULB",
@@ -14860,7 +14857,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2529,
       "name": "Get Connection for Water Demand",
@@ -14872,7 +14868,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2530,
       "name": "PT defaulter search",
@@ -14895,7 +14890,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2532,
       "name": "Get Connection for Water Demand",
@@ -15302,7 +15296,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2570,
       "name": "GrievanceDispatchDate",
@@ -15417,7 +15410,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2580,
       "name": "TradeLicenseDefaulterReport",
@@ -15584,7 +15576,6 @@
       "path": "",
       "navigationURL": ""
     },
-
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -15864,7 +15855,7 @@
     {
       "id": 2617,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/egf-master.FinancialYear",
+      "url": "/mdms-v2/v2/_create/egf-master.FinancialYear",
       "displayName": "Create egf-master FinancialYear",
       "orderNumber": 1,
       "parentModule": "",
@@ -15876,7 +15867,7 @@
     {
       "id": 2618,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/egf-master.FinancialYear",
+      "url": "/mdms-v2/v2/_update/egf-master.FinancialYear",
       "displayName": "Update egf-master FinancialYear",
       "orderNumber": 1,
       "parentModule": "",
@@ -15888,7 +15879,7 @@
     {
       "id": 2619,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/common-masters.Department",
+      "url": "/mdms-v2/v2/_create/common-masters.Department",
       "displayName": "Create common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -15900,7 +15891,7 @@
     {
       "id": 2620,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/common-masters.Department",
+      "url": "/mdms-v2/v2/_update/common-masters.Department",
       "displayName": "Update common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -15912,7 +15903,7 @@
     {
       "id": 2621,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.UIConstants",
+      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.UIConstants",
       "displayName": "Create RAINMAKER-PGR.UIConstants",
       "orderNumber": 1,
       "parentModule": "",
@@ -15924,7 +15915,7 @@
     {
       "id": 2622,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.UIConstants",
+      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.UIConstants",
       "displayName": "Update RAINMAKER-PGR.UIConstants",
       "orderNumber": 1,
       "parentModule": "",
@@ -15936,7 +15927,7 @@
     {
       "id": 2623,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ComplainClosingTime",
+      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.ComplainClosingTime",
       "displayName": "Create RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -15948,7 +15939,7 @@
     {
       "id": 2624,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ComplainClosingTime",
+      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.ComplainClosingTime",
       "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -15960,7 +15951,7 @@
     {
       "id": 2625,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
+      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
       "displayName": "Create RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -15972,7 +15963,7 @@
     {
       "id": 2626,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ServiceDefs",
+      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.ServiceDefs",
       "displayName": "Update RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -16050,7 +16041,7 @@
     {
       "id": 2632,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/PropertyTax.PropertyType",
+      "url": "/mdms-v2/v2/_update/PropertyTax.PropertyType",
       "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -16062,7 +16053,7 @@
     {
       "id": 2633,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/PropertyTax.PropertyType",
+      "url": "/mdms-v2/v2/_create/PropertyTax.PropertyType",
       "displayName": "Create RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -16088,7 +16079,7 @@
     {
       "id": 2636,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/common-masters.StructureType",
+      "url": "/mdms-v2/v2/_update/common-masters.StructureType",
       "displayName": "Update common-masters.StructureType",
       "orderNumber": 1,
       "parentModule": "",
@@ -18203,7 +18194,7 @@
     {
       "id": 2814,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/StakeholderRegistraition.TradeTypetoRoleMapping",
+      "url": "/mdms-v2/v2/_create/StakeholderRegistraition.TradeTypetoRoleMapping",
       "displayName": "Create StakeholderRegistraition.TradeTypetoRoleMapping ",
       "orderNumber": 1,
       "parentModule": "",
@@ -18227,7 +18218,7 @@
     {
       "id": 2816,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/common-masters.PaymentChannel",
+      "url": "/mdms-v2/v2/_create/common-masters.PaymentChannel",
       "displayName": "Create common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -18236,7 +18227,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2817,
       "name": "MDMS",
@@ -19110,7 +19100,7 @@
     {
       "id": 2884,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/ASSET.ActionOption",
+      "url": "/mdms-v2/v2/_create/ASSET.ActionOption",
       "displayName": "Create Action Option",
       "orderNumber": 1,
       "parentModule": "",
@@ -19122,7 +19112,7 @@
     {
       "id": 2885,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/ASSET.ActionOption",
+      "url": "/mdms-v2/v2/_update/ASSET.ActionOption",
       "displayName": "Update Action Option",
       "orderNumber": 1,
       "parentModule": "",
@@ -19134,7 +19124,7 @@
     {
       "id": 2886,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/ASSET.Action",
+      "url": "/mdms-v2/v2/_create/ASSET.Action",
       "displayName": "Create Action",
       "orderNumber": 1,
       "parentModule": "",
@@ -19146,7 +19136,7 @@
     {
       "id": 2887,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/ASSET.Action",
+      "url": "/mdms-v2/v2/_update/ASSET.Action",
       "displayName": "Update Action",
       "orderNumber": 1,
       "parentModule": "",
@@ -19477,7 +19467,8 @@
       "serviceCode": "asset-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2912,
       "name": "Cash Flow",
       "url": "url",
@@ -19491,7 +19482,7 @@
       "path": "Finance.Expenditure Accounting.Cash Flow",
       "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
     },
-	  {
+    {
       "id": 2913,
       "name": "Receipt Payment",
       "url": "url",
@@ -19505,7 +19496,7 @@
       "path": "Finance.Expenditure Accounting.Receipt Payment",
       "navigationURL": "services/EGF/report/receiptPaymentReport-newForm.action"
     },
-	  {
+    {
       "id": 2914,
       "name": "Remittance Advice",
       "url": "url",
@@ -19585,7 +19576,7 @@
       "code": "null",
       "path": ""
     },
-{
+    {
       "id": 2920,
       "name": "Create Vendor",
       "url": "url",
@@ -19639,9 +19630,9 @@
       "code": "null",
       "navigationURL": "/finance-ui/employee",
       "path": "Finance",
-      "leftIcon": "image:collections"  
+      "leftIcon": "image:collections"
     },
-     {
+    {
       "id": 2924,
       "name": "Journal Voucher-Create",
       "url": "url",
@@ -19655,7 +19646,7 @@
       "path": "Finance2.Journal Voucher",
       "navigationURL": "/finance-ui/employee/finance/voucher/journalVoucher"
     },
-   {
+    {
       "id": 2925,
       "name": "Detailed Code-Inbox",
       "url": "url",
@@ -19739,7 +19730,7 @@
       "path": "Finance.Contra.HQ Process Demand",
       "navigationURL": "services/EGF/contra/processDemand"
     },
-	  {
+    {
       "id": 2931,
       "name": "Pending for Voucher Creation",
       "navigationURL": "services/EGF/pendingVoucher/viewVoucherfromBill",
@@ -19753,7 +19744,7 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inboxes.Pending for Voucher Creation"
     },
-     {
+    {
       "id": 2932,
       "name": "Pending for Payment Initiation",
       "navigationURL": "services/EGF/pendingpayment/viewpaymentfromVoucher",
@@ -19781,7 +19772,7 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inboxes.Pending RTGS"
     },
-	{
+    {
       "id": 2934,
       "name": "Zone Process Demand",
       "url": "url",
@@ -19795,7 +19786,7 @@
       "path": "Finance.Contra.Zone Process Demand",
       "navigationURL": "services/EGF/contra/processDemandForZone"
     },
-	{
+    {
       "id": 2935,
       "name": "View Bills Created By You ",
       "url": "url",
@@ -19808,6 +19799,17 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Bills Accounting.View Bills Created By You",
       "navigationURL": "services/EGF/ViewBillsofUsers/view"
-    }  
+    },
+    {
+      "id": 2936,
+      "name": "Search Water Tanker application",
+      "url": "/request-service/water-tanker/v1/_search",
+      "displayName": "Search Water Tanker application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
