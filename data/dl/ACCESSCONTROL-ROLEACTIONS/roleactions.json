@@ -31321,6 +31321,12 @@
       "actionid": 2904,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
