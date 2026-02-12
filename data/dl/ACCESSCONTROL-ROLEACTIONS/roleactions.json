@@ -31327,6 +31327,18 @@
       "actionid": 604,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
