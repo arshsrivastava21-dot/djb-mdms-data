@@ -6,10 +6,10 @@
       "name": "Demo",
       "code": "dl",
       "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
-      "bannerUrl": "https://mcd-asset.s3.ap-south-1.amazonaws.com/bannerImage.jpg",
-      "logoUrl": "https://mcd-asset.s3.ap-south-1.amazonaws.com/sbm-logo1.png",
+      "bannerUrl": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/Banner_img.png",
+      "logoUrl": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/DJB_integrated_logo_without_bg_dark.png",
       "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
-      "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "statelogo":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/DJBLogo_without_bg.png",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
