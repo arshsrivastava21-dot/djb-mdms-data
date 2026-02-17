@@ -26,7 +26,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "mcd@gmail.com",
+      "emailId": "djb@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
@@ -44,7 +44,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "MCD",
+        "code": "DJB",
         "ddrName": "DDR B"
       },
       "address": "Delhi",
