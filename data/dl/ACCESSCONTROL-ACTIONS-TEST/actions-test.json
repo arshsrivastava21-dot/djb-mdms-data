@@ -19821,6 +19821,105 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2938,
+      "name": "Get Meter Details eKyc application",
+      "url": "/ekyc-service/user/get/_meter-details",
+      "displayName": "Get Meter Details in eKyc Module",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+        "id": 2939,
+        "name": "Get Properity Info Details eKyc application",
+        "url": "/ekyc-service/user/get/_property-info",
+        "displayName": "Get Properity Info Details in eKyc Module",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "ekyc-service",
+        "code": "null",
+        "path": ""
+    },
+    {
+          "id": 2940,
+          "name": "Validate eKyc application",
+          "url": "/ekyc-service/user/_validate",
+          "displayName": "Validate Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2941,
+          "name": "Connection Details Get eKyc application",
+          "url": "/ekyc-service/user/get/_connection",
+          "displayName": "Connection Details Get in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2942,
+          "name": "Get Address Details eKyc application",
+          "url": "/ekyc-service/user/get/_address",
+          "displayName": "Get Address Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2943,
+          "name": "Update Address Details Get eKyc application",
+          "url": "/ekyc-service/user/address/_update",
+          "displayName": "Update Address Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2944,
+          "name": "Update Properity Details Get eKyc application",
+          "url": "/ekyc-service/user/update/_property-info",
+          "displayName": "Update Properity Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2945,
+          "name": "Update Meter Details eKyc application",
+          "url": "/ekyc-service/user/update/_meter-details",
+          "displayName": "Update Meter Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2946,
+          "name": "Review application Details eKyc application",
+          "url": "/ekyc-service/user/_application-review",
+          "displayName": "Review Application Details in eKyc Module",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
     }
   ]
 }
