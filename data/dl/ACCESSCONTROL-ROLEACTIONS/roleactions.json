@@ -31365,7 +31365,19 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "VENDOR",
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
       "actionid": 2065,
       "actioncode": "",
       "tenantId": "dl"
