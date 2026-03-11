@@ -341,6 +341,11 @@
       "code": "FSM_DSO",
       "name": "FSM Desluding Operator",
       "description": "FSM Desluding Operator"
+    },
+    {
+      "code": "COMMON_VENDOR",
+      "name": "COMMON_VENDOR",
+      "description": "Common Vendor role for add and update Driver"
     }
   ]
 }
