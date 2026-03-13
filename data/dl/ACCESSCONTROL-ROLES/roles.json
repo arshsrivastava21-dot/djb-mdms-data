@@ -346,6 +346,11 @@
       "code": "COMMON_VENDOR",
       "name": "COMMON_VENDOR",
       "description": "Common Vendor role for add and update Driver"
+    },
+    {
+      "code": "VEHICLE_ADMIN",
+      "name": "VEHICLE_ADMIN",
+      "description": "Vehicle Administrator role for managing vehicle-related operations"
     }
   ]
 }

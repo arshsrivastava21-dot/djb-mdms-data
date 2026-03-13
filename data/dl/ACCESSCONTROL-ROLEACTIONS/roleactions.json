@@ -17667,7 +17667,7 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "FSM_ADMIN",
+      "rolecode": "VEHICLE_ADMIN",
       "actionid": 2063,
       "actioncode": "",
       "tenantId": "dl"
